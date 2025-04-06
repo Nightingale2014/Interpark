@@ -1,0 +1,16 @@
+/* 기본적인 스타일 */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;  /* 최소 높이를 100vh로 설정 */
+}
+
+.main-content {
+  flex: 1;  /* 콘텐츠가 남은 공간을 차지하게 하기 */
+}
