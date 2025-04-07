@@ -49,9 +49,12 @@ TailwindCSS 적용을 통해 반응형 UI 구현
 
 🙋‍♀️ 개발자
 이름	깃허브
-박기영	@Nightingale2014
-🔗 출처 및 참고
 
+박기영	@Nightingale2014
+
+🔗 출처 및 참고
 인터파크 공식 사이트 디자인 참고
+
 Vite + React 공식 템플릿 기반 구성
+
 TailwindCSS 공식 문서
